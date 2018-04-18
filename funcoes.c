@@ -14,4 +14,6 @@ float multiplicacao(x,y)){
 	return x * y;
 }
 
-
+float divisao(x,y)){
+	return x / y;
+}
