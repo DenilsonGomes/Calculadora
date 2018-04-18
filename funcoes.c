@@ -10,4 +10,8 @@ float subtracao(x,y)){
 	return x - y;
 }
 
+float multiplicacao(x,y)){
+	return x * y;
+}
+
 
